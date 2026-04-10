@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Vitor Oliveira Zago
 
 I'm a passionate Software Developer with a focus on backend and mobile development.  
-I thrive on building efficient and scalable applications, creating dynamic interfaces, and working with innovative technologies.  
+I thrive on building efficient and scalable applications and working with innovative technologies.  
 Currently, I'm pursuing a **Bachelor’s Degree in Information Systems** at **University of São Paulo (ICMC/USP)** and working as a **Software Engineering Intern at Nubank**.  
 
 ### Beyond code 🎮
